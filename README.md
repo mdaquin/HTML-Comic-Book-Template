@@ -1,7 +1,7 @@
 
 # HTML Comic Book Template
 
-This is a simple (beta) HTML/CSS template for comic books. It includes a 12x12 grid, as well as classes for speech bubbles, text-box and a dedicated font. It is still in development. The (badly drawn) example is visible at <a href="http://mdaquin.me/hcbt/">mdaquin.me/hcbt/</a>.
+This is a simple (beta) HTML/CSS template for comic books. It includes a 12x12 grid, as well as classes for speech bubbles, text-box and a dedicated font. It is still in development. The (badly drawn) example is visible at <a href="https://mdaquin.github.io/hcbt/">mdaquin.github.io/hcbt/</a>.
 
 ## Basics
 
